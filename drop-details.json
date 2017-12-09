@@ -1,0 +1,10 @@
+{
+  "src": 1,
+  "uname": "aditya.sin",
+  "pwd": "your_password",
+  "location": "Mira Road East, G.C.C. Club",
+  "time": "11:15 PM",
+  "could_not_log_in_text": "Sorry cannot log you in! Check your login credentials in drop-details.json file.",
+  "booking_error_text": "Some error while booking your ride! Please try again.",
+  "booking_success_text": "Your ride has been booked successfully! Naacho BC!"
+}
