@@ -4,7 +4,8 @@
   "pwd": "your_password",
   "location": "Mira Road East, G.C.C. Club",
   "time": "11:15 PM",
-  "could_not_log_in_text": "Sorry cannot log you in! Check your login credentials in drop-details.json file.",
-  "booking_error_text": "Some error while booking your ride! Please try again.",
+  "session_not_initialized_text": "Sorry! Your session could not be established.",
+  "could_not_log_in_text": "Sorry! Cannot log you in. Check your login credentials in drop-details.json file.",
+  "booking_error_text": "Sorry! Some error has occurred while booking your ride. Please try again.",
   "booking_success_text": "Your ride has been booked successfully! Naacho BC!"
 }
